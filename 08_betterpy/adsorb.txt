@@ -1,0 +1,9 @@
+Questions:
+One group didn't remove the last line of the occupations list. What effect does this have?
+
+Comments:
+I found it interesting how one group used user input to add items to the lists.
+Another group used user input to determine which period to take the random student from.
+Most people used the same method for the weighted random value - assigning each element a range proportional to its weight and then picking a random number from all the ranges.
+
+Concerns:
